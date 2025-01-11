@@ -22,7 +22,7 @@
 ---
 
 ### 🔬 About Me
-- 🌟 I’m currently working on **Web Development for the Department of Chemistry**
+- 🌟 I’m currently working on **Web Development for the Department of Chemistry (IT) Faculty of Science University of Peradeniya **
 - 🤝 Collaborating with **the Head of the Department of Chemistry**
 
 ---
