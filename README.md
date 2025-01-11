@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web development Department of Chemistry**
 
-- 👯 I’m looking to collaborate on **Head of the Department of Chemistry**
+- 👯 I’m currently to collaborate on **Head of the Department of Chemistry**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
