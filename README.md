@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janitha Sandanuwan Bandara</h1>
 <h3 align="center">
-  Undergraduate in Statistics & Operations Research | Full-stack web developer using the MEAN stack | Data Science, Machine Learning (ML), Deep Learning (DL), & Artificial Intelligence Enthusiast | LLM | University of Peradeniya
+  Undergraduate in Statistics & Operations Research | Full-stack web developer using the MERN stack | Data Science, Machine Learning (ML), Deep Learning (DL), & Artificial Intelligence Enthusiast | LLM | University of Peradeniya
 </h3>
 
 <p align="center">
