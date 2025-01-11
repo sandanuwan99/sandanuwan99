@@ -123,9 +123,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sandanuwan99&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandanuwan99" alt="GitHub Streak" />
-    </td>
+    
   </tr>
 </table>
 
